@@ -8,7 +8,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {},
+      colors: {
+        accentcolor: "#E54065",
+        backgroundcolor: "#F4F5F9",
+        bordercolor: "#CFD2DC",
+        textcolor: "#636363",
+        filterbuttoncolor: "#E1E4EA",
+        readbgcolor: "#F2F2F2",
+      },
     },
   },
   plugins: [],
